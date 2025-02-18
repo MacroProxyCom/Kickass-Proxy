@@ -5,21 +5,21 @@ Accessing Kickass Torrents in 2025: Working Proxy Sites.
 
 As of February 11th, 2025, several proxy sites offer access to Kickass Torrents, enabling you to bypass restrictions and continue torrenting:
 
-kickasstorrent.cr
+- kickasstorrent.cr
 
-katcr.to
+- katcr.to
 
-kick4ss.com
+- kick4ss.com
 
-kickasstorrents.bz
+- kickasstorrents.bz
 
-kkat.net
+- kkat.net
 
-kickasst.net
+- kickasst.net
 
-kickasstorrents.id
+- kickasstorrents.id
 
-kickasshydra.dev
+- kickasshydra.dev
 
 If one site is blocked, try another from the list. We regularly update this information, and by registering, you can stay informed about new sites.
 
