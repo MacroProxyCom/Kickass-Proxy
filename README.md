@@ -25,6 +25,7 @@ If one site is blocked, try another from the list. We regularly update this info
 
 # Risks and Considerations for Using Kickass Proxies
 While proxy sites offer access, they carry certain risks:
+
 ![image](https://github.com/user-attachments/assets/8928b513-de86-497f-b48d-572edda9f1c3)
 
 1. Privacy Risks
