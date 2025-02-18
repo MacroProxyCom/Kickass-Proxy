@@ -1,5 +1,6 @@
 # Kickass-Proxy
 Accessing Kickass Torrents in 2025: Working Proxy Sites.
+
 ![image](https://github.com/user-attachments/assets/b5c1a8f6-e3d4-489c-9c48-ea05a642f8e4)
 
 As of February 11th, 2025, several proxy sites offer access to Kickass Torrents, enabling you to bypass restrictions and continue torrenting:
